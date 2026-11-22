@@ -1,0 +1,14 @@
+description=AFK status: /afk tells the server a player is away.
+permission_use=Use /afk.
+command_afk=Say that you are away, or that you are back.
+players_only=Only players can use this command.
+no_permission=You do not have permission to use that command.
+you_afk=You are now AFK.
+you_back=You are no longer AFK.
+now_afk={0} is now AFK.
+no_longer_afk={0} is no longer AFK.
+cooldown=You can go AFK again in {0} seconds.
+busy=That is not possible right now. Please try again shortly.
+config_error=Invalid afk-lite config. Check config.properties and reload the plugin.
+data_error=afk-lite could not read its data folder.
+save_error=afk-lite could not create config.properties in its data folder.

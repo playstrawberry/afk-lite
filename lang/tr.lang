@@ -1,0 +1,14 @@
+description=AFK durumu: /afk bir oyuncunun uzakta olduğunu server'a bildirir.
+permission_use=/afk komutunu kullan.
+command_afk=Uzakta olduğunu ya da döndüğünü bildir.
+players_only=Bu komutu yalnızca oyuncular kullanabilir.
+no_permission=Bu komut için permission sahibi değilsin.
+you_afk=Artık AFK durumundasın.
+you_back=Artık AFK değilsin.
+now_afk={0} artık AFK.
+no_longer_afk={0} artık AFK değil.
+cooldown={0} saniye sonra tekrar AFK olabilirsin.
+busy=Şu anda mümkün değil. Biraz sonra tekrar dene.
+config_error=afk-lite ayarı geçersiz. config.properties dosyasını kontrol et ve plugini yeniden yükle.
+data_error=afk-lite veri klasörünü okuyamadı.
+save_error=afk-lite veri klasöründe config.properties dosyasını oluşturamadı.

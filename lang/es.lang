@@ -1,0 +1,14 @@
+description=Estado AFK: /afk avisa al servidor de que un jugador está ausente.
+permission_use=Usar /afk.
+command_afk=Decir que estás ausente, o que has vuelto.
+players_only=Solo los jugadores pueden usar este comando.
+no_permission=No tienes permiso para usar ese comando.
+you_afk=Ahora estás AFK.
+you_back=Ya no estás AFK.
+now_afk={0} está ahora AFK.
+no_longer_afk={0} ya no está AFK.
+cooldown=Podrás volver a ponerte AFK en {0} segundos.
+busy=Ahora mismo no es posible. Inténtalo de nuevo en un momento.
+config_error=Configuración de afk-lite no válida. Revisa config.properties y recarga el plugin.
+data_error=afk-lite no pudo leer su carpeta de datos.
+save_error=afk-lite no pudo crear config.properties en su carpeta de datos.
